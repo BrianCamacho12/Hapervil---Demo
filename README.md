@@ -1,6 +1,7 @@
 # Hapervil---Demo
-Brian Camacho personal project demo
-License Agreement
+Brian Camacho personal generalist project Demo
+
+License Agreement:
 This project, named Hapervil, is the exclusive property of Brian Eduardo Camacho Oceguera and is registered under his name. All content, including code, graphical assets, and any other associated materials, is protected by intellectual property laws and the registered trademark of Hapervil.
 
 Terms of Use
